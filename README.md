@@ -27,7 +27,7 @@ Documenation and Instructions
 <li>Automic 12 or above</li>
 <li>PowerShell</li>
 <li>WinRM</li>
-<li>Microsoft System Center Configuration Manager 2016</li>
+<li>Microsoft System Center Configuration Manager 2012 R2 / 2016</li>
 </ul>
 <p>Installation</p>
 <ol>
